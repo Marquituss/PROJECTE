@@ -1,8 +1,11 @@
 
 body {
     margin: 0;
+    background-color: rgb(233, 162, 115);
 }
-
+.body-contact {
+    margin-top: -20px;
+}
 .bordes {
     margin-left: 170px;
     margin-right: 170px;
@@ -20,21 +23,21 @@ body {
     margin-top: 25px;
     margin-left: 25px;
     height: 50px;
-    width: 1450px;
-    margin-left: 140px;
+    width: 850px;
+    margin-left: 100px;
     margin-bottom: -15px;
 }
 .user-settings button {
     margin-top: -70px;
     width: 70px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 .sections {
-    margin-top: -65px;
+    margin-top: -80px;
     display: inline-block;
     margin-right: 25px;
     margin-bottom: 25px;
-    margin-left: 1600px;
+    margin-left: 950px;
 }
 
 .index-inic {
@@ -57,7 +60,6 @@ body {
     margin-right: 25px;
     margin-bottom: 50px;
     margin-left: 50px;
-    background-color: aqua;
 }
 .title1 {
     margin-left: 40px;
@@ -67,7 +69,6 @@ body {
     margin-top: 20px;
     margin-left: 215px;
     margin-right: 215px;
-    background-color: rgb(250, 192, 192);
 }
 .form-1 {
     margin-top: 25px;
