@@ -23,23 +23,22 @@ body {
     margin-top: 25px;
     margin-left: 25px;
     height: 50px;
-    width: 1450px;
-    margin-left: 140px;
+    width: 850px;
+    margin-left: 100px;
     margin-bottom: -15px;
 }
 .user-settings button {
     margin-top: -70px;
     width: 70px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 .sections {
-    margin-top: -65px;
+    margin-top: -80px;
     display: inline-block;
     margin-right: 25px;
     margin-bottom: 25px;
-    margin-left: 1600px;
+    margin-left: 950px;
 }
-
 .title-emp{
     text-align: center;
 }
@@ -60,6 +59,20 @@ body {
     padding: 15px;
     margin-right: 15px;
 }
+.logotip {
+    margin-left: 70px;
+}
+.norton {
+    margin-left: 70px;
+}
+.img-bigdata {
+    margin-left: 70px;
+}
+.portatil {
+    margin-left: 70px;
+}
+
+
 
 .desc-1{ 
     margin-top: 30px;
@@ -93,80 +106,80 @@ body {
 }
 .stack {
     margin-top: 30px;
-    margin-right: 750px;
+    margin-right: 600px;
     margin-bottom: 10px;
-    margin-left: 700px;
+    margin-left: 100px;
 }
 .text-stack {
     font-size: 20px;
     margin-left: 40px;
     margin-right: 40px;
+    text-align: justify;
 }
 .stack-owsubu {
     text-align: center;
     font-size: 35px;
 }
 .title-stack{
-    text-decoration: underline;
     font-size: 35px;
 }
 
 .title-internet{
-    text-decoration: underline;
     font-size: 35px;
 }
 
 .openstack-img {
-    margin-left: 200px;
+    margin-left: 1000px;
     margin-top: -350px;
     margin-bottom: 90px;
 }
-
+.butt-stack {
+    margin-left: 45px;
+}
 .internet{
     margin-top: 30px;
-    margin-right: 750px;
+    margin-right: 100px;
     margin-bottom: 10px;
-    margin-left: 700px;
+    margin-left: 500px;
 }
 .iot-title {
     text-align: center;
     font-size: 35px;
 }
 .iot-img {
-    margin-left: 1750px;
+    margin-left: 60px;
     margin-top: -500px;
-    margin-bottom: 90px;
+    margin-bottom: 20px;
+}
+.butt-iot {
+    margin-left: 50px;
 }
 .text-IOT {
     font-size: 20px;
     margin-left: 40px;
     margin-right: 40px;
+    text-align: justify;
 }
 .creixement{
-    margin-top: 30px;
-    margin-right: 750px;
+    margin-top: 100px;
+    margin-right: 550px;
     margin-bottom: 10px;
-    margin-left: 700px;
+    margin-left: 100px;
 }
 .text-creix {
     font-size: 20px;
     margin-left: 40px;
     margin-right: 40px;
+    text-align: justify;
 }
 .title-creix{
-    text-decoration: underline;
     text-align: center;
+    font-size: 35px;
 }
 .creixement-img {
-    margin-left: 250px;
+    margin-left: 1050px;
     margin-top: -290px;
     margin-bottom: 90px;
-}
-.footer-emp{
-    margin-top: 30px;
-    margin-right: 50px;
-    margin-bottom: 10px;
-    margin-left: 5px;
 }
 .sent-lenguages {
     margin-left: 100px;
@@ -178,10 +191,10 @@ body {
 }
 .footer-indx {
     background-color: #bbb8b8;
-    height: 40vh;
+    height: 55vh;
     margin-left: 170px;
     margin-right: 170px;
-    margin-bottom: -50px;
+    margin-bottom: -30px;
 
 }
 .foot-title {
@@ -207,6 +220,10 @@ body {
 .pg-section-2 {
     margin-left: 1200px;
     margin-top: -270px;
+}
+.logo-cat {
+    margin-bottom: -20px;
+    margin-left: 50px;
 }
 .sent-lenguages {
     margin-left: 100px;
