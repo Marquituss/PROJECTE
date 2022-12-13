@@ -1,5 +1,9 @@
 body {
     margin: 0;
+    background-color: rgb(233, 162, 115);
+}
+.body-descarrega {
+    margin-top: -20px;
 }
 
 .bordes {
@@ -19,23 +23,22 @@ body {
     margin-top: 25px;
     margin-left: 25px;
     height: 50px;
-    width: 1450px;
-    margin-left: 140px;
+    width: 850px;
+    margin-left: 100px;
     margin-bottom: -15px;
 }
 .user-settings button {
     margin-top: -70px;
     width: 70px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 .sections {
-    margin-top: -65px;
+    margin-top: -80px;
     display: inline-block;
     margin-right: 25px;
     margin-bottom: 25px;
-    margin-left: 1600px;
+    margin-left: 950px;
 }
-
 .index-inic {
     float: right;
     font-size: 20px;
@@ -53,10 +56,9 @@ body {
 
 .titol{
     text-align: center;
-    margin-top: 5px;
     margin-right: 50px;
-    margin-bottom: 10px;
     margin-left: 5px;
+    font-size: 30px;
 }
 
 .desktop{
@@ -64,40 +66,47 @@ body {
     text-align: center;
     height: 35px;
     margin-right: 1300px;
+    margin-left: 15px;
     background-color: green;
 }
 .text-desktop {
     font-size: 20px;
     margin-right: 1200px;
     text-align: justify;
+    margin-left: 15px;
 }
 .link1{
     text-align: center;
     font-size: 25px;
     margin-right: 1350px;
 }
-
+.owsubu-server {
+    margin-top: -215px;
+    margin-left: 650px;
+    margin-right: 100px;
+}
 .server{
-    font-size: 30px;
-    text-align: center;
-    height: 35px;
-    margin-right: 1300px;
     background-color: green;
+    font-size: 30px;
+    height: 35px;
+    margin-left: 15px;
+    margin-right: 550px;
 }
 .text-server {
     font-size: 20px;
-    margin-right: 1200px;
+    margin-right: 400px;
     text-align: justify;
+    margin-left: 50px;
 }
 .link2{
-    text-align: center;
     font-size: 25px;
-    margin-right: 1350px;
+    margin-left: 50px;
+    margin-right: 100px;
 }
 
 .tutorials{
-    margin-top: 65px;
-    margin-right: 1400px;
+    margin-top: 35px;
+    margin-right: 1200px;
     margin-bottom: 10px;
     margin-left: 50px;
     font-size: 25px;
@@ -106,18 +115,17 @@ body {
 .text-tutorials {
     margin-top: -15px;
     margin-left: 100px;
-    margin-right: 1100px;
+    margin-right: 900px;
     text-align: justify;
 }
 .text-tutorials-1 {
     margin-left: 100px;
     text-align: justify;
-    margin-right: 1100px;
+    margin-right: 900px;
 }
 .documents {
 
-    margin-right: 1250px;
-    margin-bottom: 10px;
+    margin-right: -12px;
     margin-left: 50px;
     font-size: 25px;
 }
@@ -125,15 +133,13 @@ body {
     margin-left: 10px;
 }
 .text-documents {
-    margin-top: -15px;
+    margin-top: -25px;
     margin-left: 100px;
     text-align: justify;
     margin-right: 1100px;
 }
 .electro{
-    margin-top: 65px;
     margin-right: 1000px;
-    margin-bottom: 10px;
     margin-left: 50px;
     font-size: 25px;
 }
@@ -141,15 +147,19 @@ body {
     margin-left: 10px;
 }
 .text-electrodomestics {
-    margin-top: -15px;
+    margin-top: -25px;
     margin-left: 100px;
     text-align: justify;
     margin-right: 1100px;
 }
-
+.seccio-2 {
+    margin-left: 700px;
+    margin-top: -248px;
+    margin-right: 150px;
+}
 .altres-formes{
-    margin-top: 65px;
-    margin-right: 1000px;
+    margin-top: -20px;
+    margin-right: 100px;
     margin-left: 50px;
     font-size: 25px;
 }
@@ -160,23 +170,24 @@ body {
     margin-top: -15px;
     margin-left: 100px;
     text-align: justify;
-    margin-right: 1100px;
 }
 .sabors{
-    margin-top: 65px;
-    margin-right: 1000px;
+    margin-top: 20px;
+    margin-right: 100px;
     margin-left: 50px;
     font-size: 25px;
+    margin-bottom: 15px;
 }
 .title-sabors {
     margin-left: 10px;
+    margin-bottom: 50px;
 }
 .text-sabors {
-    margin-top: -15px;
+    margin-top: -30px;
     margin-left: 100px;
     text-align: justify;
-    margin-right: 1100px;
-    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
 }
 .projecte-social{
     margin-top: 50px;
